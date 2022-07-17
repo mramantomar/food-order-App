@@ -1,2 +1,2 @@
 # food-order-App
-Food order application using Anhular
+Food order application using Angular
